@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+model/llama-2-13b-chat.ggmlv3.q4_0.bin
+data/vdoc.pub_nutrition-for-health-fitness-and-sport.pdf
+data/vdoc.pub_the-science-of-nutrition.pdf
+data/vdoc.pub_younger-next-year-the-exercise-program-use-the-power-of-exercise-to-reverse-aging-and-stay-strong-fit-and-sexy.pdf
